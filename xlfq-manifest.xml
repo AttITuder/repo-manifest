@@ -3,7 +3,7 @@
     <!--<remote name="android-modularization" fetch="http://114.55.74.197/android-modularization/"/>-->
      <!--<remote name="app" fetch="https://github.com/AttITuder/"/>-->
   
-    <!--<default revision="master" remote="instalment"  sync-j="4"/>-->
+    <default revision="master" remote="instalment"  sync-j="4"/>
     <!-- <project name="gittest.git" path="projects"></project>-->
     
     <project name="instalment.git" path="instalment"></project>
