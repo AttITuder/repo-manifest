@@ -1,11 +1,12 @@
 <manifest>
-    <!--<remote name="instalment" fetch="http://114.55.74.197/android-team/"/>-->
+    <remote name="instalment" fetch="git@114.55.74.197/android-team/"/>
     <!--<remote name="android-modularization" fetch="http://114.55.74.197/android-modularization/"/>-->
-     <remote name="app" fetch="https://github.com/AttITuder/"/>
+     <!--<remote name="app" fetch="https://github.com/AttITuder/"/>-->
   
-    <default revision="master" remote="app"  sync-j="4"/>
-     <project name="gittest.git" path="projects"></project>
-    <!--<project name="instalment.git" path="instalment"></project>-->
+    <!--<default revision="master" remote="instalment"  sync-j="4"/>-->
+    <!-- <project name="gittest.git" path="projects"></project>-->
+    
+    <project name="instalment.git" path="instalment"></project>
     
    <!-- <project name="baseframework.git" remote="android-modularization" path="instalment/components/baseframework"/>-->
     <!--<project name="pricecomponent.git" remote="android-modularization" path="instalment/components/pricecomponent"/>-->
